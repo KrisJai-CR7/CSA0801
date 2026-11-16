@@ -1,0 +1,22 @@
+FEST REGISTRATION SUMMARY
+==========================
+department files expected : 5
+department files read     : 4
+department files missing  : 1
+lines read                : 16
+unique students (master)  : 7
+duplicate registrations   : 2 (events merged)
+invalid e-mail addresses  : 3
+damaged lines             : 4
+
+students per department:
+  AIML       2
+  CSE        3
+  ECE        1
+  IT         1
+
+participants per event:
+  Dance            4
+  Drama            2
+  Quiz             4
+  Singing          2

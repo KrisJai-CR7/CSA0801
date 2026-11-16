@@ -1,0 +1,5 @@
+192311001,Arun Kumar,CSE,arun@mail.com,Dance;Quiz
+192311002,Bala Murugan,CSE,bala.m@mail.com,Quiz
+192311003,Chitra Devi,CSE,chitra@mail,Singing
+192311004,Dinesh,CSE,dinesh@mail.com,Drama
+192311001,Arun Kumar,CSE,arun@mail.com,Singing

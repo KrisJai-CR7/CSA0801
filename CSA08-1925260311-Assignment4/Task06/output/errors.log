@@ -1,0 +1,10 @@
+cse.txt:3: bad e-mail: invalid e-mail 'chitra@mail': 192311003,Chitra Devi,CSE,chitra@mail,Singing
+cse.txt:5: duplicate: already registered; events merged (added: Singing): 192311001,Arun Kumar,CSE,arun@mail.com,Singing
+ece.txt:2: bad e-mail: invalid e-mail 'farook@@mail.com': 192312002,Farook Ali,ECE,farook@@mail.com,Quiz
+ece.txt:3: damaged: expected 5 fields, found 2: 192312003,Gayathri
+ece.txt:4: damaged: register number 'abc123456' must be 9 digits: abc123456,Hari,ECE,hari@mail.com,Drama
+ece.txt:5: damaged: register number '' must be 9 digits: ,Indu,ECE,indu@mail.com,Dance
+mech.txt: file problem: department file is missing
+it.txt:2: damaged: no events chosen: 192314002,Karthik,IT,karthik@mail.com,
+it.txt:3: duplicate: already registered; events merged (added: Dance): 192311004,Dinesh,CSE,dinesh@mail.com,Dance
+aiml.txt:3: bad e-mail: invalid e-mail 'nila mail@x.com': 192315003,Nila,AIML,nila mail@x.com,Quiz

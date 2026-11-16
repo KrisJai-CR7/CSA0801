@@ -1,0 +1,5 @@
+192312001,Elango,ECE,elango@college.edu.in,Dance
+192312002,Farook Ali,ECE,farook@@mail.com,Quiz
+192312003,Gayathri
+abc123456,Hari,ECE,hari@mail.com,Drama
+,Indu,ECE,indu@mail.com,Dance
